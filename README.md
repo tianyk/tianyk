@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi [there](https://kekek.cc) 👋
 
-[KeKe](https://kekek.cc)
+
 
 <!--
 **tianyk/tianyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
